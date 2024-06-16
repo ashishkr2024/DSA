@@ -62,3 +62,4 @@ int main()
     int m=2;
     cout<<allocatbook(arr,n,m)<<endl;
 }
+.
